@@ -28,7 +28,7 @@ Each project highlights different core skills, from data manipulation and automa
 
 
 ### 📁 2. Matcha Studio
-*   **Directory:** `/matchastudio`
+*   **Directory:** `/app`
 *   **Type:** Demo
 *   **Key Tech:** `pygame, numpy, pyinstaller`
 *   **Description:** A demo game using only python libraries that involves creating music using a keyboard, bass guitar and drum, using sounds created from python itself.  It uses Pygame's built-in mathematical sound synthesizer (pygame.sndarray), meaning you do not need to download any external .wav or .mp3 audio files. The code generates real musical frequencies on the fly for the Piano, Drums, and Bass Guitar!
